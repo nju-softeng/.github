@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **DevOps平台开发团队([dop-dev](https://github.com/orgs/nju-softeng/teams/dop-dev))**  
-+ 🙋‍♀️ 研发同学请访问开放文档空间阅读规范&起草方案 [dop-workspace](https://q5ci6smhhm.feishu.cn/wiki/wikcnjyVCZrrgyN40WgdIrktliN)
++ 🙋‍♀️ 研发同学请访问开放文档空间阅读规范&起草方案 [dop-workspace](https://q5ci6smhhm.feishu.cn/drive/folder/fldcnQwKSXZcw69dvuJSXEreNOh)
 + 🤬 非研发同学可点击链接吐槽DOP工作：[server-discussions](https://github.com/nju-softeng/dop-server/discussions) / [web-discussions](https://github.com/nju-softeng/dop-web/discussions)
 + 😱 如遇紧急事件请直接背刺四代目 [@TangliziGit](https://github.com/TangliziGit) 及其左右 [dop-dev](https://github.com/orgs/nju-softeng/teams/dop-dev)
 
